@@ -94,14 +94,51 @@ HTML5 и Яндекс Игры, Windows `.exe`, Android `.apk` без Android St
 
 ## Скриншоты
 
+### 🎬 Сцена, свет и фигуры
+
 <table>
 <tr>
-<td width="50%"><img src="images/lighting.jpg" alt="Освещение и частицы на сцене"><p align="center"><sub>Освещение, тени и частицы прямо в редакторе</sub></p></td>
-<td width="50%"><img src="images/game.jpg" alt="Запущенная игра с джойстиком"><p align="center"><sub>Игра: свет, огонь и экранный джойстик</sub></p></td>
+<td width="50%"><img src="images/lighting.jpg" alt="Вкладка «Освещение»"><p align="center"><sub><b>Освещение</b> — общий свет, тени и мерцание видны прямо в редакторе</sub></p></td>
+<td width="50%"><img src="images/shapes.jpg" alt="Фигуры и градиенты"><p align="center"><sub><b>Фигуры и градиенты</b> — 16 готовых примитивов, обводка, тень и закругления</sub></p></td>
+</tr>
+</table>
+
+### 🎞️ Анимация
+
+<img src="images/animation.jpg" alt="Таймлайн анимации" width="100%">
+<p align="center"><sub><b>Таймлайн</b> — ключевые кадры, плавность переходов и компонент «Аниматор»: кристалл покачивается, растёт и мерцает</sub></p>
+
+### 🎮 Игра и эмулятор телефона
+
+<table>
+<tr>
+<td width="50%"><img src="images/game.jpg" alt="Запущенная игра"><p align="center"><sub><b>Запуск игры</b> одной кнопкой: светлячки, факелы и магия кристаллов</sub></p></td>
+<td width="50%"><img src="images/emulator.jpg" alt="Эмулятор телефона"><p align="center"><sub><b>Эмулятор</b> Google Pixel 7 в альбомной ориентации — с наклоном, встряской и экранными кнопками</sub></p></td>
+</tr>
+</table>
+
+### 🧩 Блоки, JavaScript и Python
+
+<table>
+<tr>
+<td width="50%"><img src="images/blocks.jpg" alt="Блочное программирование"><p align="center"><sub><b>Блоки</b> в стиле Scratch: триггеры, глобальные переменные, звук с эффектами</sub></p></td>
+<td width="50%"><img src="images/blocks-toolbox.jpg" alt="Категория блоков «Свет и частицы»"><p align="center"><sub>Категории блоков — например, <b>«Свет и частицы»</b></sub></p></td>
 </tr>
 <tr>
-<td><img src="images/blocks.jpg" alt="Блочное программирование"><p align="center"><sub>Блоки в стиле Scratch</sub></p></td>
-<td align="center"><img src="images/splash.jpg" alt="Заставка" width="70%"><p align="center"><sub>Заставка при запуске</sub></p></td>
+<td><img src="images/code-js.jpg" alt="JavaScript с автодополнением"><p align="center"><sub><b>JavaScript</b> с автодополнением по всему API движка</sub></p></td>
+<td><img src="images/code-python.jpg" alt="Python с подсказками"><p align="center"><sub><b>Python</b> с подсказками параметров и описанием функций</sub></p></td>
+</tr>
+</table>
+
+### 📦 Сборка и проекты
+
+<table>
+<tr>
+<td width="40%" rowspan="2" align="center"><img src="images/build.jpg" alt="Окно сборки игры"><p align="center"><sub><b>Сборка</b> для HTML5, Windows и Android — компоненты Android ставятся из движка</sub></p></td>
+<td width="60%"><img src="images/hub.jpg" alt="Список проектов"><p align="center"><sub><b>Список проектов</b> со значками и датами</sub></p></td>
+</tr>
+<tr>
+<td><img src="images/splash.jpg" alt="Заставка при запуске"><p align="center"><sub>Заставка при запуске</sub></p></td>
 </tr>
 </table>
 
